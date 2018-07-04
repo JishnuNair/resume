@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jishnu Nair",
     "label": "Technology Analyst, Data Science Enthusiast",
-    "picture": "",
+    "picture": "https://raw.githubusercontent.com/JishnuNair/resume/master/img/Suit_Small.jpg",
     "email": "nair.jishnu2016@gmail.com",
     "phone": "+91 9995744296",
     "website": "",
@@ -101,7 +101,7 @@
     },
     {
       "name": "Data Mining",
-      "level": "Intermediate",
+      "level": "Master",
       "keywords": [
         "Dimensionality Reduction",
         "Unsupervised Learning(Clustering, Density Estimation, Itemset Mining)",
@@ -145,10 +145,6 @@
     {
       "language": "Malayalam",
       "fluency": "Native Speaker"
-    },
-    {
-      "language": "Tamil, Hindi",
-      "fluency": "Beginner"
     }
   ],
   "references": [
