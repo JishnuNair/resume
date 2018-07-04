@@ -1,0 +1,160 @@
+{
+  "basics": {
+    "name": "Jishnu Nair",
+    "label": "Technology Analyst, Data Science Enthusiast",
+    "picture": "",
+    "email": "nair.jishnu2016@gmail.com",
+    "phone": "+91 9995744296",
+    "website": "",
+    "summary": "Jishnu hails from Kerala, India. He is currently pursuing the \"Certificate of Business Analytics\" certificate programme from Indian School of Business, Hyderabad. He works as a Technology Analyst at Infosys Limited, where his work involves developing datawarehousing and B2B applications. Having close to six years experience in creating data pipelines and reporting, he is passionate about data analytics and is actively looking to transition to a data scientist role. Besides the work and education, he likes to spend his time reading and exploring music,movies and philosophy.",
+    "location": {
+      "address": "TC 43/511(12), Kamaleswaram",
+      "postalCode": "695009",
+      "city": "Trivandrum",
+      "countryCode": "IND",
+      "region": "Kerala"
+    },
+    "profiles": [
+      {
+        "network": "professional",
+        "username": "Linkedin",
+        "url": "https://www.linkedin.com/in/jishnu-nair-a55529a2/"
+      },
+      {
+        "network": "personal",
+        "username": "Bandcamp",
+        "url": "https://bandcamp.com/nairj"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Infosys Limited",
+      "position": "Senior Systems Engineer, Technology Analyst",
+      "website": "https://www.infosys.com/",
+      "startDate": "2012-08-01",
+      "endDate": "Present",
+      "summary": "Over the course of six years at Infosys Limited, Jishnu has worked on developing data warehousing systems for clients in the Manufacturing domain. This involved building data pipelines for pulling organizational data from diverse source systems to a single data warehouse and data marts. He has also worked on creating B2B applications to facilitate the exchange of business documents between organizations and its trading partners.",
+      "highlights": [
+        "Informatica Tools",
+        "Shell Scripting",
+        "SQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian School of Business",
+      "area": "Certificate in Business Analytics",
+      "studyType": "Post Graduate",
+      "startDate": "2017-11-01",
+      "endDate": "2018-12-01"
+    },
+    {
+      "institution": "Sree Chitra Thirunal College of Engineering",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2008-04-01",
+      "endDate": "2012-04-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Collection, Cleaning, Visualization",
+      "level": "Master",
+      "keywords": [
+        "Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Bokeh, Plotly, BeautifulSoup)",
+	      "R",
+	      "Tableau",
+        "Web Scraping"
+      ]
+    },
+    {
+      "name": "Statistical Analysis",
+      "level": "Master",
+      "keywords": [
+        "Hypothesis Testing",
+        "ANOVA",
+        "Linear, Logistic Regression Models",
+	      "Count Data Regression",
+	      "Missing Data Handling",
+	      "Survival Analysis"
+      ]
+    },
+    {
+      "name": "Big Data Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Hadoop (HDFS, MapReduce, Pig, Hive)",
+        "Apache Spark (SparkSQL, GraphX, Streaming, MLLib)",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Text Analytics",
+      "level": "Intermediate",
+      "keywords": [
+        "Natural Language Processing",
+        "Vectorization",
+        "Sentiment Analysis"
+      ]
+    },
+    {
+      "name": "Data Mining",
+      "level": "Intermediate",
+      "keywords": [
+        "Dimensionality Reduction",
+        "Unsupervised Learning(Clustering, Density Estimation, Itemset Mining)",
+        "Supervised Learning(Classification)"
+      ]
+    },
+    {
+      "name": "Optimization",
+      "level": "Intermediate",
+      "keywords": [
+        "Linear Programming",
+        "Integer Programming",
+        "GAMS"
+      ]
+    },
+    {
+      "name": "Forecasting",
+      "level": "Intermediate",
+      "keywords": [
+        "Regression models, AR models",
+        "Smoothing techniques",
+        "XLMiner"
+      ]
+    },
+    {
+      "name": "Data Warehousing",
+      "level": "Master",
+      "keywords": [
+        "SQL",
+        "Shell Scripting(Bash)",
+        "ETL(Informatica Tools)",
+        "Oracle, PostgreSQL Databases"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Malayalam",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Tamil, Hindi",
+      "fluency": "Beginner"
+    }
+  ],
+  "references": [
+    {
+      "name": "Sujay Kumar (Associate Consultant, Infosys Limited)",
+      "reference": "It is my pleasure to recommend Jishnu, his performance working as a Technology Analyst for Infosys proved that he will be a valuable addition to any company."
+    }
+  ]
+}
